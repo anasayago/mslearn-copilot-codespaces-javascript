@@ -21,22 +21,24 @@ import image from "../images/motion-background.jpg";
 const imageAltText = "purple and blue abstract background";
 
 /**
- * Sort description that expands on your title on the Home component.
+ * Sort description software engineer no UX more database PLSQL.
  */
-const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+const description =" I am a software engineer with a passion for creating innovative solutions that make a difference in people's lives. I have experience in web development, data analysis, and PL/SQL development. I am always looking for new challenges and opportunities to learn and grow.";
 
 /**
- * List of some of skills or technologies you work on, are learning,
- * passionate about, or enjoy,
+ * List of some of skills or technologies you work on, developement with data and PLSQL are investigate
+ * passionate about equitativity, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "Software Engineer",
+  "Data Analysis",
+  "PL/SQL Development",
+  "Web Development",
+  "Problem Solving",
+  "Innovation",
+  "Accessibility",
+  "Creative Thinking",
+  "Team Collaboration",
 ];
 
 /**
@@ -45,7 +47,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about creating innovative solutions that make a difference in people's lives. I believe in the power of technology to transform the world and I am committed to using my skills to make a positive impact. I am always looking for new challenges and opportunities to learn and grow.";
 
 const About = () => {
   return (
